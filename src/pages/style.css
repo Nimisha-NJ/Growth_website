@@ -1,0 +1,81 @@
+/* Call Page   */
+
+.sign-up-card {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  height: 400px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0.3);
+  border-color: black;
+  margin-top: 150px;
+  margin-left: 500px;
+}
+.sign-up-card h1 {
+  margin-bottom: 20px;
+  font-weight: normal;
+  color: rgb(34, 31, 31);
+  margin-top: 20px;
+}
+.sign-up-card form input {
+  border: none;
+  border-bottom: 2px solid black;
+  width: 100%;
+  height: 23px;
+  margin-bottom: 10px;
+  padding: 0px;
+  font-family: "Mulish-Bold", Helvetica;
+}
+.sign-up-card form button {
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Mulish-Bold", Helvetica;
+  margin-top: 30px;
+}
+
+/* Eye openers Page*/
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 150px;
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 40px;
+}
+.para {
+  line-height: 1.8;
+}
+
+/*   growth   */
+
+.container_growth {
+  display: flex;
+  flex-direction: column;
+  margin-top: 150px;
+  text-align: justify;
+  margin-left: 400px;
+  margin-right: 100px;
+  gap: 20px;
+}
+
+.heading_growth {
+  font-weight: bold;
+  font-size: 70px;
+}
+.para_growth {
+  line-height: 1.8;
+  margin-left: 45px;
+}

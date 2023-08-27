@@ -1,0 +1,48 @@
+.navbar {
+  background-color: white;
+  height: 5rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+}
+
+.nav-links {
+  display: flex;
+  text-decoration: none;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  gap: 30px;
+  font-family: "Mulish-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 300px;
+}
+.yourpain {
+  color: black;
+  font-family: Bradley Hand, cursive;
+  font-size: 16px;
+  font-weight: 400;
+
+  text-decoration: line-through;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  font-family: "Mulish-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 5px;
+  height: 41px;
+  width: 150px;
+  margin-right: 20px;
+}
+
+.logo {
+  width: 12rem;
+  padding-left: 100px;
+}

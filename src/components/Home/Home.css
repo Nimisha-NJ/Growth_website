@@ -1,0 +1,49 @@
+.para1 {
+  color: #000000;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-size: 48px;
+  font-weight: 800;
+  height: 124px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 62.4px;
+
+  text-align: center;
+  top: 0;
+  width: 981px;
+  margin-top: 180px;
+  margin-left: 260px;
+}
+.para2 {
+  color: #000000;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  height: 124px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 62.4px;
+
+  text-align: center;
+  top: 0;
+  width: 981px;
+  margin-top: 0px;
+  margin-left: 260px;
+}
+
+.para3 {
+  color: #000000;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-size: 36px;
+  font-weight: 800;
+  height: 124px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 62.4px;
+
+  text-align: center;
+  top: 0;
+  width: 981px;
+  margin-top: 80px;
+  margin-left: 260px;
+}
